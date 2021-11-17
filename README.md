@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLegendKnife
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React, C, JS
+- 🌱 I’m currently learning Flutter, Java, C, C++, JS
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me -
 
